@@ -14,7 +14,7 @@ namespace MVCProject.Controllers
             return View();
         }
 
-        public ActionResult Contuhjytjygjkytujikyjiact()
+        public ActionResult Contuhjyttujikyjiact()
         {
             return View();
         }
